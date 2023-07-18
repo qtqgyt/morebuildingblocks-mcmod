@@ -1,0 +1,50 @@
+{
+  "mod_elements": [
+    {
+      "name": "AcaciaLogStairs",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acacia_log_stairs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/morebuildingblocks/blockstates/acacia_log_stairs.json",
+          "src/main/java/net/qwerty_tech/morebuildingblocks/block/AcaciaLogStairsBlock.java",
+          "src/main/resources/assets/morebuildingblocks/models/item/acacia_log_stairs.json",
+          "src/main/resources/assets/morebuildingblocks/models/block/acacia_log_stairs_inner.json",
+          "src/main/resources/assets/morebuildingblocks/models/block/acacia_log_stairs.json",
+          "src/main/resources/assets/morebuildingblocks/models/block/acacia_log_stairs_outer.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.morebuildingblocks.acacia_log_stairs": "Acacia Log Stairs"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "morebuildingblocks",
+    "modName": "morebuildingblocks",
+    "version": "1.0.0",
+    "author": "danie, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "modElementsPackage": "net.qwerty_tech.morebuildingblocks",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300110610
+}

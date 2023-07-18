@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "morebuildingblocks:blocks/acacia_log_top",
+    "top": "morebuildingblocks:blocks/acacia_log_top",
+    "side": "morebuildingblocks:blocks/acacia_log"
+  },
+  "render_type": "solid"
+}
